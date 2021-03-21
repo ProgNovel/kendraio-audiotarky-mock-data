@@ -1,10 +1,17 @@
 [
   {
     "display_artist": "Bensound",
-    "display_title": "Ukulele"
+    "display_title": "Ukulele",
+    "url": "https://github.com/ProgNovel/kendraio-audiotarky-mock-data/blob/main/bensound-ukelele.mp3?raw=true"
   },
   {
     "display_artist": "Bensound",
-    "display_title": "Creative Minds"
+    "display_title": "Creative Minds",
+    "url": "https://github.com/ProgNovel/kendraio-audiotarky-mock-data/blob/main/bensound-creativeminds.mp3?raw=true"
   },
+  {
+    "display_artist": "Bensound",
+    "display_title": "A New Beginning",
+    "url": "https://github.com/ProgNovel/kendraio-audiotarky-mock-data/blob/main/bensound-anewbeginning.mp3?raw=true"
+  }
 ]
