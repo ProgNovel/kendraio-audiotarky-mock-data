@@ -2,16 +2,16 @@
   {
     "display_artist": "Bensound",
     "display_title": "Ukulele",
-    "url": "https://init.prognovel.workers.dev/?url=https://github.com/ProgNovel/kendraio-audiotarky-mock-data/blob/main/bensound-ukelele.mp3?raw=true"
+    "url": "https://cdn.jsdelivr.net/gh/prognovel/kendraio-audiotarky-mock-data@main/bensound-ukulele.mp3"
   },
   {
     "display_artist": "Bensound",
     "display_title": "Creative Minds",
-    "url": "https://init.prognovel.workers.dev/?url=https://github.com/ProgNovel/kendraio-audiotarky-mock-data/blob/main/bensound-creativeminds.mp3?raw=true"
+    "url": "https://cdn.jsdelivr.net/gh/prognovel/kendraio-audiotarky-mock-data@main/bensound-creativeminds.mp3"
   },
   {
     "display_artist": "Bensound",
     "display_title": "A New Beginning",
-    "url": "https://init.prognovel.workers.dev/?url=https://github.com/ProgNovel/kendraio-audiotarky-mock-data/blob/main/bensound-anewbeginning.mp3?raw=true"
+    "url":"https://cdn.jsdelivr.net/gh/prognovel/kendraio-audiotarky-mock-data@main/bensound-anewbeginning.mp3"
   }
 ]
