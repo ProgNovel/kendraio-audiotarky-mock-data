@@ -1,7 +1,10 @@
-{
-  [
-    "hello": {
-      "artist_title": "My name is Dadadadadada"
-    }
-  ]
-}
+[
+  {
+    "display_artist": "Bensound",
+    "display_title": "Ukulele"
+  },
+  {
+    "display_artist": "Bensound",
+    "display_title": "Creative Minds"
+  },
+]
